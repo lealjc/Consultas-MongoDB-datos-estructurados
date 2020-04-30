@@ -1,0 +1,1 @@
+{"_id":null,"ASISTENCIA_TOTAL":{"$numberInt":"406972"},"DIAS_LABORADOS":{"$numberInt":"4424"},"REGISTROS":{"$numberInt":"240"},"PROMEDIO_ASISTENCIA":{"$numberDouble":"1695.7166666666667"},"PROMEDIO_DIAS_LABORADOS":{"$numberDouble":"18.433333333333334"}}

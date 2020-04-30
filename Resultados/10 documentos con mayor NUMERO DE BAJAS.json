@@ -1,0 +1,10 @@
+{"_id":{"$oid":"5ea7bd0027a6940f18705883"},"EBDI":{"$numberInt":"67"},"DELEGACION":"PUEBLA","MUNICIPIO":"PUEBLA","ALTAS":{"$numberInt":"1"},"BAJAS":{"$numberInt":"10"}}
+{"_id":{"$oid":"5ea7bcfd27a6940f18705842"},"EBDI":{"$numberInt":"483"},"DELEGACION":"MÉXICO","MUNICIPIO":"METEPEC","ALTAS":{"$numberInt":"5"},"BAJAS":{"$numberInt":"7"}}
+{"_id":{"$oid":"5ea7bcfd27a6940f18705828"},"EBDI":{"$numberInt":"78"},"DELEGACION":"SONORA","MUNICIPIO":"CAJEME","ALTAS":{"$numberInt":"0"},"BAJAS":{"$numberInt":"6"}}
+{"_id":{"$oid":"5ea7bcfd27a6940f18705855"},"EBDI":{"$numberInt":"92"},"DELEGACION":"AGUASCALIENTES","MUNICIPIO":"AGUASCALIENTES","ALTAS":{"$numberInt":"1"},"BAJAS":{"$numberInt":"6"}}
+{"_id":{"$oid":"5ea7bcf927a6940f187057ce"},"EBDI":{"$numberInt":"23"},"DELEGACION":"ZACATECAS","MUNICIPIO":"GUADALUPE","ALTAS":{"$numberInt":"0"},"BAJAS":{"$numberInt":"6"}}
+{"_id":{"$oid":"5ea7bcf927a6940f187057d0"},"EBDI":{"$numberInt":"38"},"DELEGACION":"YUCATÁN","MUNICIPIO":"MÉRIDA","ALTAS":{"$numberInt":"0"},"BAJAS":{"$numberInt":"5"}}
+{"_id":{"$oid":"5ea7bcfd27a6940f18705870"},"EBDI":{"$numberInt":"90"},"DELEGACION":"SINALOA","MUNICIPIO":"AHOME","ALTAS":{"$numberInt":"5"},"BAJAS":{"$numberInt":"5"}}
+{"_id":{"$oid":"5ea7bcfd27a6940f18705844"},"EBDI":{"$numberInt":"98"},"DELEGACION":"ZONA SUR","MUNICIPIO":"COYOACÁN","ALTAS":{"$numberInt":"5"},"BAJAS":{"$numberInt":"5"}}
+{"_id":{"$oid":"5ea7bcfd27a6940f1870583b"},"EBDI":{"$numberInt":"44"},"DELEGACION":"ZONA SUR","MUNICIPIO":"BENITO JUÁREZ","ALTAS":{"$numberInt":"4"},"BAJAS":{"$numberInt":"5"}}
+{"_id":{"$oid":"5ea7bcfd27a6940f1870585e"},"EBDI":{"$numberInt":"574"},"DELEGACION":"GUANAJUATO","MUNICIPIO":"LEÓN","ALTAS":{"$numberInt":"6"},"BAJAS":{"$numberInt":"4"}}

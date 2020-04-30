@@ -1,0 +1,35 @@
+{"_id":"AGUASCALIENTES","TOTAL_EBDIS":{"$numberInt":"14"}}
+{"_id":"BAJA CALIFORNIA","TOTAL_EBDIS":{"$numberInt":"6"}}
+{"_id":"BAJA CALIFORNIA SUR","TOTAL_EBDIS":{"$numberInt":"4"}}
+{"_id":"CAMPECHE","TOTAL_EBDIS":{"$numberInt":"2"}}
+{"_id":"CHIAPAS","TOTAL_EBDIS":{"$numberInt":"10"}}
+{"_id":"CHIHUAHUA","TOTAL_EBDIS":{"$numberInt":"6"}}
+{"_id":"COAHUILA","TOTAL_EBDIS":{"$numberInt":"10"}}
+{"_id":"COLIMA","TOTAL_EBDIS":{"$numberInt":"5"}}
+{"_id":"DURANGO","TOTAL_EBDIS":{"$numberInt":"5"}}
+{"_id":"GUANAJUATO","TOTAL_EBDIS":{"$numberInt":"6"}}
+{"_id":"GUERRERO","TOTAL_EBDIS":{"$numberInt":"4"}}
+{"_id":"HIDALGO","TOTAL_EBDIS":{"$numberInt":"5"}}
+{"_id":"JALISCO","TOTAL_EBDIS":{"$numberInt":"10"}}
+{"_id":"MICHOACÁN","TOTAL_EBDIS":{"$numberInt":"7"}}
+{"_id":"MORELOS","TOTAL_EBDIS":{"$numberInt":"10"}}
+{"_id":"MÉXICO","TOTAL_EBDIS":{"$numberInt":"5"}}
+{"_id":"NAYARIT","TOTAL_EBDIS":{"$numberInt":"3"}}
+{"_id":"NUEVO LEÓN","TOTAL_EBDIS":{"$numberInt":"6"}}
+{"_id":"OAXACA","TOTAL_EBDIS":{"$numberInt":"12"}}
+{"_id":"PUEBLA","TOTAL_EBDIS":{"$numberInt":"2"}}
+{"_id":"QUERÉTARO","TOTAL_EBDIS":{"$numberInt":"8"}}
+{"_id":"QUINTANA ROO","TOTAL_EBDIS":{"$numberInt":"3"}}
+{"_id":"SAN LUIS POTOSÍ","TOTAL_EBDIS":{"$numberInt":"5"}}
+{"_id":"SINALOA","TOTAL_EBDIS":{"$numberInt":"9"}}
+{"_id":"SONORA","TOTAL_EBDIS":{"$numberInt":"12"}}
+{"_id":"TABASCO","TOTAL_EBDIS":{"$numberInt":"3"}}
+{"_id":"TAMAULIPAS","TOTAL_EBDIS":{"$numberInt":"7"}}
+{"_id":"TLAXCALA","TOTAL_EBDIS":{"$numberInt":"2"}}
+{"_id":"VERACRUZ","TOTAL_EBDIS":{"$numberInt":"6"}}
+{"_id":"YUCATÁN","TOTAL_EBDIS":{"$numberInt":"2"}}
+{"_id":"ZACATECAS","TOTAL_EBDIS":{"$numberInt":"2"}}
+{"_id":"ZONA NORTE","TOTAL_EBDIS":{"$numberInt":"14"}}
+{"_id":"ZONA ORIENTE","TOTAL_EBDIS":{"$numberInt":"9"}}
+{"_id":"ZONA PONIENTE","TOTAL_EBDIS":{"$numberInt":"8"}}
+{"_id":"ZONA SUR","TOTAL_EBDIS":{"$numberInt":"18"}}

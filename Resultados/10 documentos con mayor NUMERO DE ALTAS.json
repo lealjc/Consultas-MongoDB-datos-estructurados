@@ -1,0 +1,10 @@
+{"_id":{"$oid":"5ea7bcf927a6940f1870580f"},"EBDI":{"$numberInt":"32"},"DELEGACION":"CHIHUAHUA","MUNICIPIO":"JUÁREZ","ALTAS":{"$numberInt":"12"},"BAJAS":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ea7bcf927a6940f18705801"},"EBDI":{"$numberInt":"113"},"DELEGACION":"TABASCO","MUNICIPIO":"CENTRO","ALTAS":{"$numberInt":"11"},"BAJAS":{"$numberInt":"2"}}
+{"_id":{"$oid":"5ea7bcfd27a6940f18705846"},"EBDI":{"$numberInt":"83"},"DELEGACION":"ZONA ORIENTE","MUNICIPIO":"IZTAPALAPA","ALTAS":{"$numberInt":"11"},"BAJAS":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ea7bd0027a6940f18705888"},"EBDI":{"$numberInt":"15"},"DELEGACION":"ZONA NORTE","MUNICIPIO":"GUSTAVO A. MADERO","ALTAS":{"$numberInt":"9"},"BAJAS":{"$numberInt":"3"}}
+{"_id":{"$oid":"5ea7bcfd27a6940f1870585c"},"EBDI":{"$numberInt":"129"},"DELEGACION":"GUANAJUATO","MUNICIPIO":"IRAPUATO","ALTAS":{"$numberInt":"8"},"BAJAS":{"$numberInt":"2"}}
+{"_id":{"$oid":"5ea7bd0027a6940f1870588d"},"EBDI":{"$numberInt":"48"},"DELEGACION":"ZONA NORTE","MUNICIPIO":"CUAUHTÉMOC","ALTAS":{"$numberInt":"8"},"BAJAS":{"$numberInt":"4"}}
+{"_id":{"$oid":"5ea7bd0027a6940f18705885"},"EBDI":{"$numberInt":"3"},"DELEGACION":"ZONA NORTE","MUNICIPIO":"CUAUHTÉMOC","ALTAS":{"$numberInt":"8"},"BAJAS":{"$numberInt":"2"}}
+{"_id":{"$oid":"5ea7bcf927a6940f187057d3"},"EBDI":{"$numberInt":"59"},"DELEGACION":"BAJA CALIFORNIA","MUNICIPIO":"MEXICALI","ALTAS":{"$numberInt":"8"},"BAJAS":{"$numberInt":"2"}}
+{"_id":{"$oid":"5ea7bd0027a6940f1870588b"},"EBDI":{"$numberInt":"25"},"DELEGACION":"ZONA NORTE","MUNICIPIO":"GUSTAVO A. MADERO","ALTAS":{"$numberInt":"7"},"BAJAS":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ea7bcf927a6940f187057f8"},"EBDI":{"$numberInt":"36"},"DELEGACION":"SAN LUIS POTOSÍ","MUNICIPIO":"SAN LUIS POTOSÍ","ALTAS":{"$numberInt":"7"},"BAJAS":{"$numberInt":"1"}}

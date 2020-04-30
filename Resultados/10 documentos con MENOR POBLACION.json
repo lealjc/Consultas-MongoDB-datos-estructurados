@@ -1,0 +1,10 @@
+{"_id":{"$oid":"5ea7bcfd27a6940f18705847"},"EBDI":{"$numberInt":"117"},"DELEGACION":"ZONA SUR","REGIMEN_B":"Propia","ASISTENCIA":{"$numberInt":"0"},"POBLACION":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ea7bcfd27a6940f1870584a"},"EBDI":{"$numberInt":"118"},"DELEGACION":"ZONA SUR","REGIMEN_B":"Propia","ASISTENCIA":{"$numberInt":"0"},"POBLACION":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ea7bd0027a6940f18705899"},"EBDI":{"$numberInt":"151"},"DELEGACION":"ZONA NORTE","REGIMEN_B":"Propia","ASISTENCIA":{"$numberInt":"0"},"POBLACION":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ea7bcf927a6940f18705807"},"EBDI":{"$numberInt":"565"},"DELEGACION":"TABASCO","REGIMEN_B":"OSC","ASISTENCIA":{"$numberInt":"17"},"POBLACION":{"$numberInt":"1"}}
+{"_id":{"$oid":"5ea7bcf927a6940f1870580a"},"EBDI":{"$numberInt":"564"},"DELEGACION":"SONORA","REGIMEN_B":"OSC","ASISTENCIA":{"$numberInt":"34"},"POBLACION":{"$numberInt":"2"}}
+{"_id":{"$oid":"5ea7bcf927a6940f18705814"},"EBDI":{"$numberInt":"529"},"DELEGACION":"SONORA","REGIMEN_B":"OSC","ASISTENCIA":{"$numberInt":"133"},"POBLACION":{"$numberInt":"7"}}
+{"_id":{"$oid":"5ea7bcf927a6940f187057db"},"EBDI":{"$numberInt":"522"},"DELEGACION":"BAJA CALIFORNIA","REGIMEN_B":"OSC","ASISTENCIA":{"$numberInt":"74"},"POBLACION":{"$numberInt":"7"}}
+{"_id":{"$oid":"5ea7bcf927a6940f1870580c"},"EBDI":{"$numberInt":"563"},"DELEGACION":"SONORA","REGIMEN_B":"OSC","ASISTENCIA":{"$numberInt":"204"},"POBLACION":{"$numberInt":"14"}}
+{"_id":{"$oid":"5ea7bd0027a6940f187058b5"},"EBDI":{"$numberInt":"579"},"DELEGACION":"QUERÉTARO","REGIMEN_B":"Contratada","ASISTENCIA":{"$numberInt":"336"},"POBLACION":{"$numberInt":"16"}}
+{"_id":{"$oid":"5ea7bd0027a6940f1870589f"},"EBDI":{"$numberInt":"311"},"DELEGACION":"NUEVO LEÓN","REGIMEN_B":"Contratada","ASISTENCIA":{"$numberInt":"255"},"POBLACION":{"$numberInt":"19"}}

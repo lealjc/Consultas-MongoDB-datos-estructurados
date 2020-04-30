@@ -1,0 +1,3 @@
+{"_id":"OSC","MODALIDAD":{"$numberInt":"5"}}
+{"_id":"Contratada","MODALIDAD":{"$numberInt":"111"}}
+{"_id":"Propia","MODALIDAD":{"$numberInt":"124"}}
